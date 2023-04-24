@@ -44,7 +44,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 [![Linkedin: AnishaMadhulika](https://img.shields.io/badge/-AnishaMadhulika-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisha-madhulika-a93a83225/)](https://www.linkedin.com/in/anisha-madhulika-a93a83225/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_a_n_i_s_h_a_._?igshid=YmMyMTA2M2Y=/) 
 [![GitHub AnishaMadhulika](https://img.shields.io/github/followers/AnishaMadhulika?label=follow&style=social)](https://github.com/AnishaMahdulika)
-[![website](https://img.shields.io/badge/Portfolio-SigmaRajput.tech-2648ff?style=flat-square&logo=google-chrome)](https://anishamadhulika.github.io/Portfolio/)
+[![website](https://img.shields.io/badge/Portfolio-AnishaMadhulika.tech-2648ff?style=flat-square&logo=google-chrome)](https://anishamadhulika.github.io/Portfolio/)
 
 **Languages and Tools:**  
 
